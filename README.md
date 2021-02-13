@@ -42,11 +42,11 @@ The best results came from the random forest classifier with parameters optimize
 
 |	   |precision| recall|	f1-score|support|
 | -------- | ------ | ----- | ----- | -------- |
-|unapproved|	0.99|	0.92|	0.95|	372.0|
-|approved|	0.98|	1.0|	0.99|	1,544.0|
-|accuracy|	0.98|	0.98|	0.98|	0.98|
-|macro avg|	0.98|	0.96|	0.97|	1,916.0|
-|weighted avg|	0.98|	0.98|	0.98|	1,916.0|
+|**unapproved**|	0.99|	0.92|	0.95|	372.0|
+|**approved**|	0.98|	1.0|	0.99|	1,544.0|
+|**accuracy**|	0.98|	0.98|	0.98|	0.98|
+|**macro avg**|	0.98|	0.96|	0.97|	1,916.0|
+|**weighted avg**|	0.98|	0.98|	0.98|	1,916.0|
 
 
 ----
