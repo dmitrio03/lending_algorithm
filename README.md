@@ -3,7 +3,7 @@
 
 [**Dataset**](https://www.kaggle.com/kennykozak/loan-repayment-prediction?select=loan_data_final.csv)
 
-This project will analyze what factors are most important in securing a loan. The records are applications to LendingClub.com for all types of loans (personal, debt consolidation, educational and small business). Applicants are analyzed for certain criteria according to LendingClub.com's standards.
+This project looks at what factors are most important in securing a loan. The records are applications to LendingClub.com for all types of loans (personal, debt consolidation, educational and small business). Applicants are analyzed for certain criteria according to LendingClub.com's standards.
 
 The objective is to see if it is possible to recreate a lending algorithm for peer-to-peer lending or mircolending.
 
